@@ -5,7 +5,7 @@
 <script>
 import NavbarPage from "./NavbarPage.vue";
 export default {
-  name: "App",
+  name: "WelcomePage",
   components: {
     NavbarPage,
   },
